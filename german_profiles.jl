@@ -1,1 +1,4 @@
-{"business_profile":{"address":"HStephansplatz 12","business_name":"Restaurant","city":"Berlin","id":"","main_phone":"01 5320373","website":"","zip_code":"1010","geo":[52.3396,4.96247]}}
+{"business_profile":{"address":"","business_name":"Restaurant","city":"Berlin","id":"01cd951e577204bc","customer_id":14632817,"main_phone":"06-23322484","website":"www.dualler.nl","zip_code":"10115","geo":[51.4987,5.31337]}}
+{"business_profile":{"address":"","business_name":"Hotel","city":"Berlin","id":"01cd951e577204bc","customer_id":14632817,"main_phone":"06-23322484","website":"www.dualler.nl","zip_code":"10969","geo":[51.4987,5.31337]}}
+{"business_profile":{"address":"","business_name":"Hotel","city":"Berlin","id":"01cd951e577204bc","customer_id":14632817,"main_phone":"06-23322484","website":"www.dualler.nl","zip_code":"14532","geo":[51.4987,5.31337]}}
+{"business_profile":{"address":"","business_name":"Arztpraxis für Zahnheilkunde","city":"Köln","id":"01cd951e577204bc","customer_id":14632817,"main_phone":"06-23322484","website":"www.dualler.nl","zip_code":"50672","geo":[51.4987,5.31337]}}
