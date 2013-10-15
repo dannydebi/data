@@ -1,3 +1,4 @@
+{"business_profile":{"address":"Oberhausner Str. 7","business_name":"Michael Müller Michi's Angelshop","city":" Oberhausen/Groß-Enzersdorf","id":"","main_phone":"+43 732 670005-0","website":"http://www.alhartingerhof.at","zip_code":"2301","geo":[52.3396,4.96247]}}
 {"business_profile":{"address":"Wiener Neustädter Strasse 9","business_name":"Autohaus STRAKA","city":"Günselsdorf","id":"","main_phone":"+43 732 670005-0","website":"http://www.alhartingerhof.at","zip_code":"2525","geo":[52.3396,4.96247]}}
 {"business_profile":{"address":"Hainzenbachstr 86","business_name":"Hotel Alhartinger Hof","city":"Leonding","id":"","main_phone":"+43 732 670005-0","website":"http://www.alhartingerhof.at","zip_code":"4060","geo":[52.3396,4.96247]}}
 {"business_profile":{"address":"HStephansplatz 12","business_name":"Aioli Tapas & Antipasti","city":"Wien","id":"","main_phone":"01 5320373","website":"","zip_code":"1010","geo":[52.3396,4.96247]}}
