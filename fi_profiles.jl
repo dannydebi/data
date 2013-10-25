@@ -7,3 +7,4 @@
 {"business_profile":{"address":"x","business_name":"Lappeenrannan Kylpylä","city":"Lappeenranta","id":"0a2f612192519bff","customer_id":9,"main_phone":"0","website":"http://www.xpto.fr/","zip_code":"53100","geo":[52.3396,4.96247]}}
 {"business_profile":{"address":"x","business_name":"Asianajotoimisto Laine-Puhakainen Advokatbyrå Oy Ab","city":"VAASA","id":"0a2f612192519bff","customer_id":9,"main_phone":"0","website":"http://www.xpto.fr/","zip_code":"65200","geo":[52.3396,4.96247]}}
 {"business_profile":{"address":"x","business_name":"Kauppakeskus Mylly","city":"RAISIO","id":"0a2f612192519bff","customer_id":9,"main_phone":"0","website":"http://www.xpto.fr/","zip_code":"21280","geo":[52.3396,4.96247]}}
+{"business_profile":{"address":"x","business_name":"Ravintola Satkar","city":"HELSINKI","id":"0a2f612192519bff","customer_id":9,"main_phone":"0","website":"http://www.xpto.fr/","zip_code":"00100","geo":[52.3396,4.96247]}}
