@@ -1,3 +1,4 @@
+{"business_profile":{"address":"x","business_name":"Restaurant Pinar","city":"Basel ","id":"0a2f612192519bff","customer_id":9,"main_phone":"0","website":"http://www.xpto.fr/","zip_code":"4051","geo":[52.3396,4.96247]}}
 {"business_profile":{"address":"x","business_name":"zur Harmonie","city":"Basel ","id":"0a2f612192519bff","customer_id":9,"main_phone":"0","website":"http://www.xpto.fr/","zip_code":"4051","geo":[52.3396,4.96247]}}
 {"business_profile":{"address":"x","business_name":"Hundeparadies Triple-S","city":"Eptingen","id":"0a2f612192519bff","customer_id":9,"main_phone":"0","website":"http://www.xpto.fr/","zip_code":"4458","geo":[52.3396,4.96247]}}
 {"business_profile":{"address":"x","business_name":"Café Restaurant de la Tour","city":"Petit-Lancy","id":"0a2f612192519bff","customer_id":9,"main_phone":"0","website":"http://www.xpto.fr/","zip_code":"1213","geo":[52.3396,4.96247]}}
