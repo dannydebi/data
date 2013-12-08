@@ -1,4 +1,3 @@
-[
  {
   "business_profile": {
    "city": "Dra\u00dfmarkt", 
@@ -139999,4 +139998,3 @@
    "id": "66200"
   }
  }
-]
