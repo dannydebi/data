@@ -3,3 +3,4 @@
 {"business_profile": {"business_name": "Reindl Gesellschaft m b H", "geo": "48.3571963352297,13.6970319264905", "city": "Sankt Willibald", "street_number": "6", "zip_code": "4762"}}
 {"business_profile": {"business_name": "Grüll Auto GmbH", "geo": "48.3516740459638,13.6454862573281", "city": "Sankt Willibald", "street_number": "26a", "zip_code": "4762"}}
 {"business_profile": {"business_name": "Neundlinger Schuhmoden GmbH", "geo": "48.4678200501535,14.1633297781628", "city": "Sankt Veit im Mühlkreis", "street_number": "15-16", "zip_code": "4173"}}
+ {"business_profile": {"business_name": "Schildi - Trend - Import , August Schildberger", "geo": "48.2855397103075,13.887628749752", "city": "Sankt Thomas", "street_number": "4", "zip_code": "4732"}}
