@@ -1,1 +1,1 @@
-{"business_profile": {"business_name": "Landgasthof Bogner", "geo": "47.2944515331884,11.5005696610949", "city": "Absam", "street_number": "21", "zip_code": "6067"}}
+{"business_profile": {"business_name": "ADEG Bader", "geo": "47.8309721920404,13.548568548839", "city": "Steinbach am Attersee", "street_number": "8", "zip_code": "4853"}}
