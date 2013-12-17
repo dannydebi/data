@@ -3,3 +3,4 @@
 {"business_profile": {"website": "http://www.braeuer.at", "city": "Reichenthal", "street_number": "3", "mobile": "", "email": "", "phone": "72144028", "address": "Marktpl", "business_name": "Martin Bräuer", "geo": [], "id": "62025", "zip_code": "4193"}}
 {"business_profile": {"website": "http://www.seyrlberg.at", "city": "Reichenau im Mühlkreis", "street_number": "5", "mobile": "", "email": "seyrlberg@reinet.at", "phone": "72118202", "address": "Seyrlberg", "business_name": "Gasthof Pension Seyrlberg - Fam. Rohrmansdorfer", "geo": [], "id": "62014", "zip_code": "4204"}}
 {"business_profile": {"business_name": "Reindl Gesellschaft m b H", "geo": "48.3571963352297,13.6970319264905", "city": "Sankt Willibald", "street_number": "6", "zip_code": "4762"}}
+{"business_profile": {"business_name": "EP Elektro Füreder GMBH", "geo": "48.4681085194941,14.1645111976808", "city": "Sankt Veit im Mühlkreis", "street_number": "2", "zip_code": "4173"}}
