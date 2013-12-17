@@ -4,3 +4,4 @@
 {"business_profile": {"website": "http://www.seyrlberg.at", "city": "Reichenau im Mühlkreis", "street_number": "5", "mobile": "", "email": "seyrlberg@reinet.at", "phone": "72118202", "address": "Seyrlberg", "business_name": "Gasthof Pension Seyrlberg - Fam. Rohrmansdorfer", "geo": [], "id": "62014", "zip_code": "4204"}}
 {"business_profile": {"business_name": "Reindl Gesellschaft m b H", "geo": "48.3571963352297,13.6970319264905", "city": "Sankt Willibald", "street_number": "6", "zip_code": "4762"}}
 {"business_profile": {"business_name": "EP Elektro Füreder GMBH", "geo": "48.4681085194941,14.1645111976808", "city": "Sankt Veit im Mühlkreis", "street_number": "2", "zip_code": "4173"}}
+{"business_profile": {"website": "http://www.konditoreimayr.at", "city": "Absam", "street_number": "15", "mobile": "", "email": "", "phone": "522357640", "address": "Walburga-Schindl-Str", "business_name": "Cafe-Konditorei Mayr", "geo": [], "id": "65801", "zip_code": "6067"}}
