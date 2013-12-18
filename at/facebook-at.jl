@@ -1,1 +1,1 @@
-{"business_profile": {"business_name": "ADEG Bader", "geo": "47.8309721920404,13.548568548839", "city": "Steinbach am Attersee", "street_number": "8", "zip_code": "4853"}}
+{"business_profile": {"business_name": "Pension Vogelhändler", "geo": "47.6666718293642,14.3459351291833", "city": "Spital am Pyhrn", "street_number": "1", "zip_code": "4582"}}
